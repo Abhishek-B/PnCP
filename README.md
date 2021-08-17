@@ -1,8 +1,8 @@
-# PnCP 
-## A MATLAB package for quantum entanglement detection and constructing positive maps which are not completely positive. 
+# PnCP
 
- 
-To learn about what PnCP does and to see some performance standards, see the references.
+This MATLAB package is built for quantum entanglement detection and constructing positive maps which are not completely positive. 
+
+To learn about what PnCP does and to see some performance standards, see [Practical construction of positive maps which are not completely positive](https://arxiv.org/abs/2001.01181).
 If you use PnCP, please cite the above article for its use.  
 
 ## Dependencies
