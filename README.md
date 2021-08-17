@@ -1,9 +1,6 @@
 # PnCP
 
-This MATLAB package is built for quantum entanglement detection and constructing positive maps which are not completely positive. 
-
-To learn about what PnCP does and to see some performance standards, see [Practical construction of positive maps which are not completely positive](https://arxiv.org/abs/2001.01181).
-If you use PnCP, please cite the above article for its use.  
+This MATLAB package is built for quantum entanglement detection and constructing positive maps which are not completely positive.  
 
 ## Dependencies
 - [MOSEK](https://www.mosek.com/) or [SeDuMi](https://sedumi.ie.lehigh.edu/)
@@ -41,7 +38,12 @@ If only a floating point map <img src="https://render.githubusercontent.com/rend
 PnCP is released under the conditions of the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## References
-[1] [Practical construction of positive maps which are not completely positive](https://arxiv.org/abs/2001.01181)
+Performance standards, examples and details of PnCP can be found in the article 
+[1] [Practical construction of positive maps which are not completely positive](https://arxiv.org/abs/2001.01181).
+If you use PnCP, please cite the above article for its use.  
+
+The construction used in PnCP is from the article
+[2] [There are many more positive maps than completely positive maps](https://academic.oup.com/imrn/article/2019/11/3313/4210362?login=true).
 
 ## Contact
 Abhishek Bhardwaj : Abhishek 'dot' Bhardwaj 'dot' Maths 'at' gmail 'dot' com
