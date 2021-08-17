@@ -35,6 +35,8 @@ Details for the input arguments can be learnt using
 ```
 help('Ent_PnCP')
 ```
+If only a floating point map <img src="https://render.githubusercontent.com/render/math?math=\Phi"> is required, there is a similar command ``EntF_PnCP``.
+
 ## Licensing 
 PnCP is released under the conditions of the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
