@@ -13,7 +13,7 @@ PnCP has been tested on Ubuntu and MacOS.
 ## Usage
 To use PnCP, add the entire matlab archive to path. The 'demo.m' file demonstrates the two main commands. 
 ### Generating a positive map which is not completely positive. 
-To generate a (rational) positive map $Phi:\mathbb{R}^{n}\mapsto\mathbb{R}^{m}$ use the *Gen_PnCP* command, e.g.,
+To generate a (rational) positive map $Phi:\mathbb{R}^{3}\mapsto\mathbb{R}^{3}$ use the *Gen_PnCP* command, e.g.,
 ```
 Phi = Gen_PnCP(3,3,'mosek','CNR',2,2,rationalize=1);
 ```
