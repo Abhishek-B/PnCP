@@ -26,7 +26,7 @@ help('Gen_PnCP')
 ### Testing Entanglement of a Quantum State
 Given a quantum state <img src="https://render.githubusercontent.com/render/math?math=\rho"> along with its density matrix <img src="https://render.githubusercontent.com/render/math?math=P">, to generate a rational pncp map which can detect the entanglement of <img src="https://render.githubusercontent.com/render/math?math=\rho">, use the command ``Ent_PnCP``, e.g.
 ```
-output = Ent_PnCP(M,N,m,rho,attempts);
+output = Ent_PnCP(M,N,m,P,attempts);
 Phi = output{1,1};
 ampliation = output{1,2};
 ```
