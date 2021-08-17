@@ -17,6 +17,7 @@ To generate a (rational) positive map $Phi:\mathbb{R}^{3}\mapsto\mathbb{R}^{3}$ 
 ```
 Phi = Gen_PnCP(3,3,'mosek','CNR',2,2,rationalize=1);
 ```
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 ## Licensing 
 PnCP is released under the conditions of the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.html)
