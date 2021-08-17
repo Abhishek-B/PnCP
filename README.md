@@ -7,7 +7,7 @@ If you use PnCP, please cite the above article for its use.
 
 ## Dependencies
 - [MOSEK](https://www.mosek.com/) or [SeDuMi](https://sedumi.ie.lehigh.edu/)
-- [YALMIP (2019 April)](https://yalmip.github.io/R20190425) 
+- [YALMIP (2019 April release)](https://yalmip.github.io/R20190425) 
 
 PnCP has been tested on Ubuntu and MacOS. 
 
