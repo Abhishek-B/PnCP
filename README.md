@@ -38,11 +38,11 @@ If only a floating point map <img src="https://render.githubusercontent.com/rend
 PnCP is released under the conditions of the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## References
-Performance standards, examples and details of PnCP can be found in the article 
+Performance standards, examples and details of PnCP can be found in the article  
 [1] [Practical construction of positive maps which are not completely positive](https://arxiv.org/abs/2001.01181).
 If you use PnCP, please cite the above article for its use.  
 
-The construction used in PnCP is from the article
+The construction used in PnCP is from the article  
 [2] [There are many more positive maps than completely positive maps](https://academic.oup.com/imrn/article/2019/11/3313/4210362?login=true).
 
 ## Contact
