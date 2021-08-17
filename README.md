@@ -39,7 +39,7 @@ PnCP is released under the conditions of the [GNU General Public License 3.0](ht
 
 ## References
 Performance standards, examples and details of PnCP can be found in the article  
-[1] [Practical construction of positive maps which are not completely positive](https://arxiv.org/abs/2001.01181).
+[1] [Practical construction of positive maps which are not completely positive](https://arxiv.org/abs/2001.01181).  
 If you use PnCP, please cite the above article for its use.  
 
 The construction used in PnCP is from the article  
