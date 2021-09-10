@@ -2,6 +2,11 @@
 
 This MATLAB package is built for quantum entanglement detection and constructing positive maps which are not completely positive.  
 
+## Examples
+
+For a list of entangled quantum states which are identified via PnCP, and their identifying pcnp map, see the "Catalogue of Examples.ipynb" file.  
+This list will grow as more interesting states get identified. 
+
 ## Dependencies
 - [MOSEK](https://www.mosek.com/) or [SeDuMi](https://sedumi.ie.lehigh.edu/)
 - [YALMIP (2019 April release)](https://yalmip.github.io/R20190425) 
